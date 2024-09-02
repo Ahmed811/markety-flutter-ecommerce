@@ -19,7 +19,7 @@ This is a fully functional e-commerce application built using Flutter. The app a
 
 ### Home Screen
 ![Screenshot_20240902-124632](https://github.com/user-attachments/assets/f1faeb7e-b1db-4c8c-b0e7-64265c9063a0)
-
+<img src="https://github.com/user-attachments/assets/f1faeb7e-b1db-4c8c-b0e7-64265c9063a0" alt="Home Screen" width="300"/>
 ### Product Categories
 ![Categories](https://yourimageurl.com/categories_screen.png)
 ![Screenshot_20240902-124616](https://github.com/user-attachments/assets/e44636e4-1522-4212-87be-0fc74c97d6bc)
