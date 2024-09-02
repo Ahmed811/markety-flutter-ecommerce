@@ -26,9 +26,8 @@ This is a fully functional e-commerce application built using Flutter. The app a
 ### Checkout
 <img src="https://github.com/user-attachments/assets/04e89969-c471-474a-a870-43000869fddf" alt="Home Screen" width="300"/>
 <img src="https://github.com/user-attachments/assets/62bc6e41-09c2-440d-9fe5-c4e01532d6ef" alt="Home Screen" width="300"/>
+
 ## Demo Video
-
-
 [![Watch the video](https://github.com/user-attachments/assets/f1faeb7e-b1db-4c8c-b0e7-64265c9063a0)](https://www.youtube.com/watch?v=K0b-hCk_vV8)
 
 ## Packages Used
