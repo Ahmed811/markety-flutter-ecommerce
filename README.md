@@ -30,6 +30,12 @@ This is a fully functional e-commerce application built using Flutter. The app a
 ## Demo Video
 [![IMAGE ALT TEXT HERE](https://github.com/user-attachments/assets/f1faeb7e-b1db-4c8c-b0e7-64265c9063a0)](https://www.youtube.com/watch?v=K0b-hCk_vV8)
 
+
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=5yLzZikS15k">
+         <img src="https://img.youtube.com/vi/5yLzZikS15k/0.jpg" style="width:100%;">
+      </a>
+</div>
 ## Packages Used
 
 - **`firebase_auth:`** Firebase Authentication for handling user sign-in, sign-out, and registration.
