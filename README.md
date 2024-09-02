@@ -22,15 +22,13 @@ This is a fully functional e-commerce application built using Flutter. The app a
 
 ### Product Categories
 ![Categories](https://yourimageurl.com/categories_screen.png)
+![Screenshot_20240902-124616](https://github.com/user-attachments/assets/e44636e4-1522-4212-87be-0fc74c97d6bc)
 
-### Product Details
-![Product Details](https://yourimageurl.com/product_details_screen.png)
-
-### Favorites
-![Favorites](https://yourimageurl.com/favorites_screen.png)
 
 ### Checkout
-![Checkout](https://yourimageurl.com/checkout_screen.png)
+![Screenshot_20240902-124603](https://github.com/user-attachments/assets/04e89969-c471-474a-a870-43000869fddf)
+
+![Screenshot_20240902-124641](https://github.com/user-attachments/assets/62bc6e41-09c2-440d-9fe5-c4e01532d6ef)
 
 ## Demo Video
 
