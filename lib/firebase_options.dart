@@ -58,12 +58,12 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDYLq8ToWlu7URSYwzUPoI02U4Ysg-u-Y8',
-    appId: '1:535514134209:ios:0676680aadaf19ef380640',
-    messagingSenderId: '535514134209',
-    projectId: 'ecommerce-0101',
-    storageBucket: 'ecommerce-0101.appspot.com',
-    iosBundleId: 'com.example.ecommerce',
+    apiKey: 'AIzaSyCn6HosjxYb5YKVOScw9nuEI9oyYhrBQ_s',
+    appId: '1:368464652770:android:4e26e915400c995074f1bb',
+    messagingSenderId: '368464652770',
+    projectId: 'markety-23e57',
+    storageBucket: 'markety-23e57.appspot.com',
+    iosBundleId: 'com.ahmedzidan.markety',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
@@ -72,7 +72,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '535514134209',
     projectId: 'ecommerce-0101',
     storageBucket: 'ecommerce-0101.appspot.com',
-    iosBundleId: 'com.example.ecommerce',
+    iosBundleId: 'com.ahmedzidan.markety',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(

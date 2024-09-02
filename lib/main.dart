@@ -11,8 +11,14 @@ import 'firebase_options.dart';
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
-    options: DefaultFirebaseOptions.currentPlatform
-  );
+      // options: DefaultFirebaseOptions.currentPlatform
+      options: FirebaseOptions(
+    apiKey: 'AIzaSyCn6HosjxYb5YKVOScw9nuEI9oyYhrBQ_s',
+    appId: '1:368464652770:android:4e26e915400c995074f1bb',
+    messagingSenderId: '368464652770',
+    projectId: 'markety-23e57',
+    storageBucket: 'markety-23e57.appspot.com',
+  ));
   await initializeDependencies();
   runApp(const MyApp());
 }
@@ -25,12 +31,9 @@ class MyApp extends StatelessWidget {
     return BlocProvider(
       create: (context) => SplashCubit()..appStarted(),
       child: MaterialApp(
-        theme: AppTheme.appTheme,
-        debugShowCheckedModeBanner: false,
-        home: const SplashPage()
-      ),
+          theme: AppTheme.appTheme,
+          debugShowCheckedModeBanner: false,
+          home: const SplashPage()),
     );
-
   }
 }
-
