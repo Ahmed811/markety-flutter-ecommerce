@@ -1,6 +1,6 @@
 # E-Commerce Flutter App
 
-![App Banner](https://yourimageurl.com/banner.png)
+
 
 ## Overview
 
